@@ -1,0 +1,26 @@
+{
+  "name": "101382608_comp3123_exec04",
+  "version": "1.0.0",
+  "description": "Lab Exercise 4 for my Full Stack class",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "nodeJs",
+    "express",
+    "labexercise4",
+    "get",
+    "post"
+  ],
+  "author": "Jam Furaque",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
